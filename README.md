@@ -6,9 +6,6 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 This repo contains all my work for this course in Coursera, which include my codes about assignments and the notes that I organized durning the course. And I will upload my work continuely.
 
-Currently, this repo has two major parts you may be interested in and I will give you a list in there.
-![](http://res.cloudinary.com/dyy3xzfqh/image/upload/v1509963992/QQ%E6%88%AA%E5%9B%BE20171106182541_suww8n.png)
-
 ## Course 1-Neural Networks and Deep Learning
 
 ### Assignments
@@ -48,3 +45,15 @@ Currently, this repo has two major parts you may be interested in and I will giv
 - [Week 2-Optimization algorithms](https://github.com/huuuuusy/Coursera-Deep-Learning/tree/master/Course%202-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Note/week%202)
 
 - [Week 3-Deep Neural Networks](https://github.com/huuuuusy/Coursera-Deep-Learning/tree/master/Course%202-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Note/week%203)
+
+## Course 3-Structuring Machine Learning Projects
+
+### Assignments
+
+- [Week 1-Bird recognition in the city of Peacetopia (case study)](https://github.com/huuuuusy/Coursera-Deep-Learning/tree/master/Course%203-Structuring%20Machine%20Learning%20Projects/Assignment)
+
+- [Week 2-Autonomous driving (case study)](https://github.com/huuuuusy/Coursera-Deep-Learning/tree/master/Course%203-Structuring%20Machine%20Learning%20Projects/Assignment)
+
+### Notes
+
+- [Week 1&2-ML Strategy](https://github.com/huuuuusy/Coursera-Deep-Learning/tree/master/Course%203-Structuring%20Machine%20Learning%20Projects/Note)
